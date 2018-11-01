@@ -1,0 +1,61 @@
+[
+	{
+		"base":{"pid":"1328","img":"1328_P_1532565229536.jpg","money":"256.00","commondity":"天福茗茶 悠然铁观音清香型乌龙茶 锦绣茶品礼盒200克装 2018秋茶","solnumber":"1056","number":"200","weight":"200g"},
+		"img":["1328_P_1532565229536.jpg","1328_P_1539803684902.jpg","1328_P_1532565229880.jpg","1328_P_1532565229223.jpg","1328_P_1540160308584.jpg"],
+		"smallimg":["1328_P_1532565229536.jpg","1328_P_1539803684902.jpg","1328_P_1532565229880.jpg","1328_P_1532565229223.jpg","1328_P_1540160308584.jpg"],
+		"product_goods":[
+			{
+				"pid":"1253",
+				"img":"1253_thumb_G_1527204948545.jpg",
+				"money":"336.00",
+				"commondity":"天福茗茶 2018秋茶 安溪铁观音茶叶清香型特级乌龙茶礼盒装250g",
+				"solnumber":"2126"
+			},
+			{
+				"pid":"72",
+				"img":"72_thumb_G_1527464384573.jpg",
+				"money":"110.00",
+				"commondity":"天福茗茶 东方美人茶 白毫乌龙茶叶 50克罐装 节日茶礼纪念茶",
+				"solnumber":"13055"
+			},
+			{
+				"pid":"1380",
+				"img":"1380_thumb_G_1516142832052.jpg",
+				"money":"580.00",
+				"commondity":"天福茗茶 颂福罐装茶 安溪铁观音清香型乌龙茶茶叶礼盒精品202g 2018年秋茶",
+				"solnumber":"1157"
+			}
+		],
+		"info":["O1CN011MbVww5GdIJ9IFw_!!46641453.jpg","TB2_KmGG7OWBuNjSsppXXXPgpXa_!!46641453.jpg","TB2UKqGG7OWBuNjSsppXXXPgpXa_!!46641453.jpg","TB29DTNG21TBuNjy0FjXXajyXXa_!!46641453.jpg","TB27TiFdoD.BuNjt_ioXXcKEFXa_!!46641453.jpg","TB2gIHclJknBKNjSZKPXXX6OFXa_!!46641453.jpg","TB2gIHclJknBKNjSZKPXXX6OFXa_!!46641453.jpg","TB2mA_9yxuTBuNkHFNRXXc9qpXa_!!46641453.jpg","TB2x9eAGY1YBuNjSszhXXcUsFXa_!!46641453.jpg","TB2.il6G29TBuNjy1zbXXXpepXa_!!46641453.jpg","TB2MM7mGGSWBuNjSsrbXXa0mVXa_!!46641453.jpg","TB2mA_9yxuTBuNkHFNRXXc9qpXa_!!46641453.jpg","TB2PoKyG25TBuNjSspmXXaDRVXa_!!46641453.jpg","O1CN011MbVx5vjoCTbGyI_!!46641453.jpg"]
+	},
+	{
+		"base":{"pid":"1253","img":"1253_P_1527204948465.jpg","money":"336.00","commondity":"天福茗茶 2018秋茶 安溪铁观音茶叶清香型特级乌龙茶礼盒装250g","solnumber":"1056","number":"5","weight":"250g"},
+		"img":["1253_P_1527204948465.jpg","1253_P_1527204948634.jpg","1253_P_1496957401083.jpg","1253_P_1496957401912.jpg","1253_P_1496957401968.jpg"],
+		"smallimg":["1253_P_1527204948465.jpg","1253_P_1527204948634.jpg","1253_P_1496957401083.jpg","1253_P_1496957401912.jpg","1253_P_1496957401968.jpg"],
+		"product_goods":[
+			{
+				"pid":"1253",
+				"img":"1253_thumb_G_1527204948545.jpg",
+				"money":"336.00",
+				"commondity":"天福茗茶 2018秋茶 安溪铁观音茶叶清香型特级乌龙茶礼盒装250g",
+				"solnumber":"2126"
+			},
+			{
+				"pid":"72",
+				"img":"72_thumb_G_1527464384573.jpg",
+				"money":"110.00",
+				"commondity":"天福茗茶 东方美人茶 白毫乌龙茶叶 50克罐装 节日茶礼纪念茶",
+				"solnumber":"13055"
+			},
+			{
+				"pid":"1380",
+				"img":"1380_thumb_G_1516142832052.jpg",
+				"money":"580.00",
+				"commondity":"天福茗茶 颂福罐装茶 安溪铁观音清香型乌龙茶茶叶礼盒精品202g 2018年秋茶",
+				"solnumber":"1157"
+			}
+		],
+		"info":["O1CN011MbVwKrnh7g8KfH_!!46641453.jpg","TB2e3sIdhuTBuNkHFNRXXc9qpXa_!!46641453.jpg","TB20UN_lH5YBuNjSspoXXbeNFXa_!!46641453.jpg","TB2pdxylHuWBuNjSszgXXb8jVXa_!!46641453.jpg","TB2JMRylHGYBuNjy0FoXXciBFXa_!!46641453.jpg","TB2FP4rlNSYBuNjSsphXXbGvVXa_!!46641453.jpg","TB2cARKlGSWBuNjSsrbXXa0mVXa_!!46641453.jpg","TB2YmhJlQOWBuNjSsppXXXPgpXa_!!46641453.jpg","TB2ThhelMmTBuNjy1XbXXaMrVXa_!!46641453.jpg","TB2tMpSlL5TBuNjSspcXXbnGFXa_!!46641453.jpg","TB2axcIdhuTBuNkHFNRXXc9qpXa_!!46641453.jpg"]
+	}
+	
+]

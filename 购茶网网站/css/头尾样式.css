@@ -1,0 +1,321 @@
+@charset "utf-8";
+*{margin: 0;padding: 0;}
+ul{list-style: none;}
+
+/* a{text-decoration:none;}; */
+/* 登陆注册栏 */
+#toplis{
+	position: relative;
+	margin-top: 0;
+	width: 100%;
+	height: 25px;
+	background: #DCDCDC;
+}
+#toplis #titlesOne{
+	position: absolute;
+	left: 180px;
+	line-height: 25px;
+	font-size: 13px;
+}
+#toplis #titlesTwo{
+	position: absolute;
+	left: 1190px;
+	line-height: 25px;
+	font-size: 13px;
+}
+#toplis #landing{
+	position: absolute;
+	left: 1290px;
+	line-height: 25px;
+	font-size: 13px;
+	text-decoration:none;
+}
+#toplis #register{
+	position: absolute;
+	left: 1330px;
+	line-height: 25px;
+	font-size: 13px;
+	text-decoration:none;
+}
+/* toplist */
+#tiplogo{
+	position: relative;
+	margin-top: 0;
+	margin-left: 180px;
+	width: 1190px;
+	height: 100px;
+}
+#tiplogo div{
+	float: left;
+	
+}
+#tiplogo #logo{
+	width: 350px;
+	height: 54px;
+}
+#tiplogo #logo a img{
+	position: absolute;
+	left: 20px;
+	top: 20px;
+}
+#tiplogo #inputs{
+	position: relative;
+	top: 20px;
+	left: 80px;
+	height: 80px;
+}
+#tiplogo #inputs table{
+	width: 415px;
+	height: 38.4px;
+	border: #DCDCDC solid 1px;
+}
+#tiplogo #inputs table tr td #Searchpic{
+	width: 28px;
+	height: 28px;
+}
+#tiplogo #inputs table tr td  #searchs{
+	width: 311px;
+	height: 28px;
+	border: none;
+}
+#tiplogo #inputs table tr #btn-search img{
+	position: relative;
+	width: 88px;
+	height: 28px;
+	top: 1px;
+}
+
+#IndexNav .ClassNav{width:1190px;margin:0 auto;}
+#IndexClass {float: left;width: 201px;height: 421px;position:absolute;border-right-width: 1px;border-bottom-width: 1px;border-right-style: solid;border-bottom-style: solid;border-right-color: #9dbb5b;border-bottom-color: #9dbb5b;z-index: 999;background: #f7ffe7;}
+#IndexClass table {border-collapse:collapse; margin:-1px -10px; 0 0; width:0; height:0;}
+#IndexClass dl{color: #cf140a;text-decoration: none;white-space: nowrap;cursor: default;position: relative;z-index: 999;border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #febf90;height: 40px;background-color: #fffbe1;padding-top: 0px;padding-bottom: 0px;border-top-width: 1px;border-top-style: solid;border-top-color: #febf90;border-left-width: 1px;border-left-style: solid;border-left-color: #febf90;background-repeat: no-repeat;}
+#IndexClass dt{width: 200px;height:42px;z-index: 999999998;position: relative;}
+#IndexClass dt a {display: block;height: 40px;padding-left: 10px;color:#093;text-decoration: none;background-repeat: repeat-x;background-position: 0px 0px;font-weight: bold;padding-top: 1px;padding-bottom: 1px;border-left-width: 1px;border-left-style: solid;border-left-color: #9dbb5b;}
+#IndexClass dt a:hover {color: #cf140a;text-decoration: none;white-space: nowrap;cursor: default;position: relative;z-index: 999;border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #febf90;height: 40px;background-color: #fffbe1;padding-top: 0px;padding-bottom: 0px;border-top-width: 1px;border-top-style: solid;border-top-color: #febf90;border-left-width: 1px;border-left-style: solid;border-left-color: #febf90;background-repeat: no-repeat;}
+#IndexClass dt:hover > a {color: #cf140a;text-decoration: none;position: relative;z-index: 999;display: block;background-color: #fffbe1;font-weight: bold;background-image: none;border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #febf90;height: 40px;padding-top: 0px;padding-bottom: 0px;border-top-width: 1px;border-left-width: 1px;border-top-style: solid;border-left-style: solid;border-top-color: #febf90;border-left-color: #febf90;}
+#IndexClass dt big {font-size: 12px;cursor: pointer;display: block;line-height: 16px;height: 16px;margin-top: 15px;float: left;}
+#IndexClass dt big.linet {width: 35px;margin-top: 6px;height: 30px;line-height: 15px;overflow: hidden;white-space: normal;}
+#IndexClass dt ul {position: absolute;top: 0px;background-color: #fffbe1;width: 372px;border: 1px solid #f7b381;z-index: 995;left: -9999px;zoom: 1;
+padding:0 0 10px 0;
+}
+#IndexClass dt :hover ul,#IndexClass dt:hover ul {left: 200px;position: absolute;top: 0px;display: block;background-color: #fffbe1;z-index: 999999;_left: 199px;_top: -1px;}
+#IndexClass dt ul li {background-color: #fffbe1;zoom: 1;}
+#IndexClass dt ul li a  {display: inline;height: auto;width: auto;border-top-style: none;border-right-style: none;border-bottom-style: none;border-left-style: none;background-color: #fffbe1;margin: 0px;padding: 0px;font-size: 12px;font-weight: normal;background-image: none;}
+#IndexClass dt ul li a:hover  {display: inline;border-top-style: none;border-right-style: none;border-bottom-style: none;border-left-style: none;background-color: #fffbe1;background-image: none;margin: 0px;padding: 0px;font-weight: normal;cursor: pointer;}
+#IndexClass dt ul li.tx {line-height: 28px;height: 28px;padding-right: 15px;padding-left: 15px;padding-top: 7px;margin: 0px;padding-bottom: 0px;}
+#IndexClass dt ul li.tx strong a{font-size: 12px;font-weight: bold;color: #cf140a;background-image: none;line-height: 28px;height: 28px;}
+#IndexClass dt ul li.tx strong a:hover {font-weight: bold;}
+#IndexClass dt em {background-color: #fffbe1;height: 40px;width: 2px;position: absolute;left: -1px;top: 0px;z-index: 99999;font-size: 0px;line-height: 0px;}
+#IndexClass dt ul li.txt {padding-right: 6px;padding-left: 8px;zoom:1;padding-bottom: 8px;line-height:180%;}
+#IndexClass dt ul li.txt a {display: block;float: left;white-space: nowrap;line-height: 18px;height: 18px;color: #3e3e3e;width: 82px;padding-left: 7px;margin-top: 2px;margin-bottom: 2px;cursor: pointer;text-decoration: none;background-image: none;}
+#IndexClass dt ul li.txt a:hover {color: #cf140a;cursor: pointer;display: block;float: left;white-space: nowrap;line-height: 18px;height: 18px;width: 82px;padding-left: 7px;margin-top: 2px;margin-bottom: 2px;text-decoration: underline;background-image: none;}
+#IndexClass dt span a {cursor: pointer;display: block;background-image: none;background-color:transparent;}
+#IndexClass dt span a:hover {cursor: pointer;}
+#IndexClass dt ul li.def{position: absolute;left: -144px;top: 14px;_top: 14px;line-height: 16px;height: 16px;z-index: 9999999;color: #F00;}
+#IndexClass dt ul li.def a {color: #555555;line-height: 16px;height: 16px;display: inline;float: left;background-image: none;width: 65px;margin: 0px;padding: 0px;}
+#IndexClass dt ul li.def a:hover {color: #cf140a;margin: 0px;padding: 0px;line-height: 16px;height: 16px;text-decoration: underline;}
+#IndexClass dd{line-height: 16px;color: #c3c3c3;position: absolute;left: 57px;top: 15px;_top: 15px;height: 16px;z-index: 99;}
+#IndexClass dd a {float: left;width: 65px;margin: 0px;padding: 0px;color: #3e3e3e;}
+#IndexClass dd a:hover {color: #cf140a;text-decoration: underline;}
+#IndexClass dl.xc {background-image: none;overflow: hidden;}
+#IndexClass dl.xc dt {padding-left: 11px;width: 46px;border-left-width: 1px;border-left-style: solid;border-left-color: #9dbb5b;}
+#IndexClass dl.xc dt a{display: inline;margin: 0px;padding: 0px;border-top-style: none;border-right-style: none;	border-bottom-style: none;border-left-style: none;}
+#IndexClass dl.xc dt a:hover {background-color: #fffbe1;border-top-style: none;border-right-style: none;border-bottom-style: none;border-left-style: none;}
+#IndexClass dl.xc dd {float: left;width: 141px;}
+#tiplogo #inputs #HotKey{
+	font-size: 13px;
+}
+#tiplogo #inputs #HotKey a{
+	color: #000000;
+}
+#tiplogo #telephone{
+	position: relative;
+	left: 200px;
+	top: 15px;
+}
+.dropdownmenus{
+	position: relative;
+	/* margin-top: 125px; */
+	width: 100%;
+	height: 35px;
+	background: url(../img/m_bg.jpg) repeat-x;
+}
+.dropdownmenus #menu{
+	position: relative;
+	left: 180px;
+	width: 1190px;
+	height: 35px;
+}
+
+.dropdownmenus #menu ul .AllClass,.menuLink,.lines{
+	float: left;
+	text-align: center;
+	line-height: 35px;
+}
+.dropdownmenus #menu .AllClass{
+	height: 35px;
+}
+.dropdownmenus #menu .AllClass div {
+	height: 35px;
+}
+.dropdownmenus #menu ul .menuLink{
+	width: 85px;
+	height: 35px;
+}
+.dropdownmenus #menu .AllClass #drop-down_menu{
+	width: 202px;
+	height: 420px;
+	background: #FF7F50;
+	position: absolute;
+	z-index: 9999;
+}
+.dropdownmenus #menu ul .menuLink a{
+	width: 85px;
+	height: 35px;
+	text-align: center;
+	line-height: 35px;
+	font-weight: 700;
+	color: #FFFFFF ;
+}
+.dropdownmenus #menu ul .menuLink a:hover{
+	color: coral;
+}
+.dropdownmenus #menu ul .menuLink span{
+	position: relative;
+	top: -10px;
+	left: 7px;
+}
+.dropdownmenus #menu #shoppingCarts{
+	position: absolute;
+	top: 3px;
+	right: 30px;
+}
+/* 客服中心 */
+#Csc{
+	position: fixed;
+	top: 160px;
+	left: -80px;
+	width: 104px;
+	z-index: 999999;
+}
+#Csc #csc{
+	position: relative;
+	top: 35px;
+	float: right;
+}
+#Csc #Cs{
+	width: 80px;
+	height: 21px;
+}
+#Csc #QQ{
+	width: 80px;
+	height: 72px;
+}
+#Csc #tel{
+	width: 80px;
+	height: 86px;
+}
+#Csc #toTop{
+	width: 80px;
+	height: 18px;
+}
+#Csc #Wx img{
+	width: 80px;
+	height: 78px;
+}
+/* 网站底部样式 */
+#bottomlist{
+	position: relative;
+	left: 180px;
+	bottom: -50px;
+	width:1191.6px ;
+	height: 162.4px;
+	border: #DCDCDC solid 1px;
+	border-top: #008000 solid 5px;
+}
+#bottomlist #list li{
+	float: left;
+	width: 170px;
+	height: 125px;
+}
+#bottomlist #list #teles{
+	width: 250px;
+	height: 93.2px;
+}
+#bottomlist #list #teles img{
+	position: relative;
+	top: 36px;
+}
+#bottomlist #list ul li{
+	width: 170px;
+	height: 25px;
+	text-align: center;
+	line-height: 25px;
+	
+}
+#bottomlist #list ul li a{
+	color: #000000;
+}
+#bottomlist #list ul li a:hover{
+	text-decoration: underline;
+	color: #FF7F50;
+}
+#bottomlist #list ul li strong{
+	color: #008000;
+}
+#bottombox{
+	position: relative;
+	bottom: -60px;
+	left: 180px;
+	width: 1191.6px;
+	height: 30px;
+	background: url(../img/m_bg.jpg) repeat-x;
+}
+#bottombox ul li{
+	float: left;
+	width: 80px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	
+}
+#bottombox #bottomtotop{
+	position: absolute;
+	right: 50px;
+	top: 5px;
+}
+#bottombox ul li a{
+	color: #FFFFFF;
+}
+#links{
+	position: relative;
+	bottom: -65px;
+	left: 180px;
+	width: 1191.6px;
+	height: 30px;
+	border: #DCDCDC solid 1px;
+	
+}
+#links span,a{
+	font-size: 13px;
+	line-height: 30px;
+	text-decoration: none;
+	color: #000000;
+}
+#links a:hover{
+	text-decoration: underline;
+	color: #FF7F50;
+}
+.AllWrap{
+	position: relative;
+	bottom: -80px;
+	width: 100%;
+	text-align: center;
+}
+#boxxxx{
+	position: relative;
+	margin-top: 1500px;
+	height: 500px;
+	width: 100%;
+	background: #DCDCDC;
+}

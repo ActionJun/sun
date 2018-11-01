@@ -1,0 +1,23 @@
+#load{
+	width: 1190px;
+	height: 400px;
+	margin: 20px auto;
+}
+#load img{
+	float: left;
+}
+#loading{
+	
+	width: 800px;
+	height: 400px;
+	margin-left:250px;
+}
+#onestotop{
+	width: 43px;
+	height: 43px;
+	position: fixed;
+	right: 50px;
+	bottom: 50px;
+	background: #000000;
+	color: #F0FFFF;
+}

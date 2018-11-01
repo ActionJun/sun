@@ -1,0 +1,14 @@
+#register{
+	width: 1190px;
+	height: 400px;
+	margin: 20px auto;
+}
+#register img{
+	float: left;
+}
+#register .register_input{
+	
+	width: 800px;
+	height: 400px;
+	margin-left:250px;
+}
